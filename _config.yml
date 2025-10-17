@@ -7,9 +7,9 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "johanneslöjd"
+title:		   "Em Paints!"
 description: "Powered by Jekyll and GitHub Pages"
-author:      "Johannes Carlsen"
+author:      "Em Greenlund"
 
 domain: johanneslojd.art       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://johanneslojd.art  # the base hostname and protocol for your site, e.g. http://example.com

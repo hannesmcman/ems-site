@@ -10,20 +10,20 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Spoons and Utensils',   url: 'spoons'}
-- {name: 'Furniture', url: 'furniture'}
-- {name: 'Shrink Pots',   url: 'shrink-pots'}
-- {name: 'Timber Framing', url: 'timber_framing'}
+- {name: 'Murals',   url: 'murals'}
+- {name: 'Trade Work',   url: 'trade-work'}
+- {name: 'Paintings', url: 'paintings'}
 
 #-------------------------------
 # Contact Section
 
+email: "eggreenlund@gmail.com"
+
 social:
 # - {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/johanneslojd'}
-- {icon: 'github',    link: 'https://github.com/hannesmcman'}
+# - {icon: 'instagram', link: 'https://instagram.com/johanneslojd'}
 # - {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:hannes.mcman@gmail.com'}
+- {icon: 'envelope',  link: 'mailto:mailto:eggreenlund@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -46,7 +46,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'G-M7P1VLSQQB'
+google-analytics-ua: ''
 
 #-------------------------------
 # Disqus Section
