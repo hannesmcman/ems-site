@@ -8,4 +8,4 @@ permalink: /about
 
 WHO ARE YOU??
 
-![Me!](/assets/img/me.jpg)
+![Me!]({{site.url}}/assets/img/me.jpg)
