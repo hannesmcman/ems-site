@@ -11,5 +11,5 @@ title:		   "Em Paints!"
 description: "Powered by Jekyll and GitHub Pages"
 author:      "Em Greenlund"
 
-domain: johanneslojd.art       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://johanneslojd.art  # the base hostname and protocol for your site, e.g. http://example.com
+domain: hannesmcman.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://hannesmcman.github.io/ems-site # the base hostname and protocol for your site, e.g. http://example.com
