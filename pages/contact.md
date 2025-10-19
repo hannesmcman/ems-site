@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:eggreenlund@gmail.com) if you would like to connect!
+Got a mural idea you wanna bring to life? Need someone to paint our bathroom, kitchen cabinets or your deck? [Let's chat!](mailto:eggreenlund@gmail.com)
