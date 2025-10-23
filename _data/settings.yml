@@ -12,6 +12,7 @@ menu:
 projects:
 - {name: 'Murals',   url: 'murals'}
 - {name: 'Trade Work',   url: 'trade-work'}
+- {name: 'Oil Paintings', url: 'oil-paintings'}
 
 #-------------------------------
 # Contact Section
