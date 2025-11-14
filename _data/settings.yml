@@ -3,8 +3,14 @@
 
 menu:
 - {name: 'home', url: ''}
+- {name: 'services',  url: 'services'}
 - {name: 'about',    url: 'about'}
-- {name: 'contact',  url: 'contact'}
+# - {
+#     name: 'gallery', 
+#     dropdown: 
+#       - { name: 'oil paintings', url: ''},
+#     url: ''
+#   }
 
 #-------------------------------
 # Projects Section
@@ -17,13 +23,13 @@ projects:
 #-------------------------------
 # Contact Section
 
-email: "eggreenlund@gmail.com"
+email: "greenlundart@gmail.com"
 
 social:
 # - {icon: 'twitter',   link: 'https://twitter.com/paululele'}
 # - {icon: 'instagram', link: 'https://instagram.com/johanneslojd'}
 # - {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:eggreenlund@gmail.com'}
+- {icon: 'envelope',  link: 'mailto:mailto:greenlundart@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 

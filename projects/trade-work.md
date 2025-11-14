@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'trade work'
+title: 'Trade Work'
 ---
 
 I'm also a painter by trade. I've been doing it for several years, and I'm always on the lookout for more projects. Here are some of the projects I've remembered to photograph:

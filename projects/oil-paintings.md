@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'oil paintings'
+title: 'Oil Paintings'
 ---
 
-I also make oil paintings!
+Most of the pieces here are oil paintings (my primary/preferred medium), though some are graphite, charcoal, or colored pencil drawings.
 
 
 {% include gallery.html folder="/assets/img/projects/oil-paintings/gallery" %}
